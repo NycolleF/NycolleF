@@ -8,10 +8,10 @@ Desenvolvedora Web em formação, em Rio Grande (RS). Depois de mais de 6 anos a
 
 ### Projetos em destaque
 
-- [AutoCheck Manager](https://github.com/NycolleF/auto-chek-system): gestão de oficina (clientes, veículos e OS) · [testar online](https://nycollef.github.io/auto-chek-system/)
+- [AutoCheck Manager](https://github.com/NycolleF/auto-check-system): gestão de oficina (clientes, veículos e OS) · [testar online](https://nycollef.github.io/auto-check-system/)
 - [AutoDiagnóstico](https://github.com/NycolleF/Autodiagnostico): diagnóstico automotivo por sintoma · [testar online](https://nycollef.github.io/Autodiagnostico/)
 - [Smart Garage Simulator](https://github.com/NycolleF/Smart-garage-simulator): triagem de atendimento em oficina · [testar online](https://nycollef.github.io/Smart-garage-simulator/)
-- [Evoluta](https://github.com/NycolleF/Evoluta.sas): SaaS de mentorias (Java + Spring Boot + React)
+- [Evoluta](https://github.com/NycolleF/Evoluta-saas): SaaS de mentorias (Java + Spring Boot + React)
 
 ### Certificações
 
