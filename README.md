@@ -2,9 +2,9 @@
 
 Desenvolvedora Web em formação, em Rio Grande (RS). Depois de mais de 6 anos atendendo clientes no setor automotivo e no varejo, hoje uso esse olhar para criar sistemas que resolvem problemas reais de quem usa.
 
-**Tecnologias:** HTML • CSS • JavaScript • Java • Git/GitHub
+**Tecnologias:** HTML • CSS • JavaScript • React • Java • SQL • Git/GitHub
 
-**Também estudo:** UX, Scrum, levantamento de requisitos e UML
+**Também estudo:** Node.js, UX, Scrum, levantamento de requisitos e UML
 
 ### Projetos em destaque
 
