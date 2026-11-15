@@ -8,7 +8,7 @@ Estou estudando desenvolvimento web e moro em Rio Grande (RS). Trabalho há mais
 
 ### Projetos
 
-- **Tabela de Mão de Obra**: a oficina escolhe o carro, vê o tempo e o valor de cada serviço e manda o orçamento pelo WhatsApp. Cada oficina tem seu login e seu valor da hora. Feito com HTML, CSS, JavaScript e Supabase. [Ver online](https://tabela-mao-de-obra.pages.dev)
+- **Tabela de Mão de Obra**: a oficina escolhe o carro, vê o tempo e o valor de cada serviço e manda o orçamento pelo WhatsApp. Cada oficina tem seu login e seu valor da hora. Feito com HTML, CSS, JavaScript e Supabase. [Testar sem cadastro](https://tabela-mao-de-obra.pages.dev/entrar.html?demo=1)
 
   <p>
     <img src="print-inicio.jpg" width="49%" alt="Tela inicial">
