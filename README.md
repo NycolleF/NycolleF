@@ -9,6 +9,13 @@ Desenvolvedora Web em formação, em Rio Grande (RS). Depois de mais de 6 anos a
 ### Projetos em destaque
 
 - **Tabela de Mão de Obra** (SaaS): tempo e valor de cada serviço por carro, com login por oficina, valor-hora próprio e orçamento direto no WhatsApp. HTML, CSS, JS + Supabase · [ver online](https://tabela-mao-de-obra.pages.dev)
+
+  <p>
+    <img src="print-consulta.jpg" width="32%" alt="Consulta de tempo e valor por carro">
+    <img src="print-orcamento.jpg" width="32%" alt="Orçamento pronto para o WhatsApp">
+    <img src="print-ordem-de-servico.jpg" width="32%" alt="Ordem de serviço">
+  </p>
+
 - [AutoCheck Manager](https://github.com/NycolleF/auto-check-system): gestão de oficina (clientes, veículos e OS) · [testar online](https://nycollef.github.io/auto-check-system/)
 - [AutoDiagnóstico](https://github.com/NycolleF/Autodiagnostico): diagnóstico automotivo por sintoma · [testar online](https://nycollef.github.io/Autodiagnostico/)
 - [Smart Garage Simulator](https://github.com/NycolleF/Smart-garage-simulator): triagem de atendimento em oficina · [testar online](https://nycollef.github.io/Smart-garage-simulator/)
