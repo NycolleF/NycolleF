@@ -11,9 +11,10 @@ Desenvolvedora Web em formação, em Rio Grande (RS). Depois de mais de 6 anos a
 - **Tabela de Mão de Obra** (SaaS): tempo e valor de cada serviço por carro, com login por oficina, valor-hora próprio e orçamento direto no WhatsApp. HTML, CSS, JS + Supabase · [ver online](https://tabela-mao-de-obra.pages.dev)
 
   <p>
-    <img src="print-consulta.jpg" width="32%" alt="Consulta de tempo e valor por carro">
-    <img src="print-orcamento.jpg" width="32%" alt="Orçamento pronto para o WhatsApp">
-    <img src="print-ordem-de-servico.jpg" width="32%" alt="Ordem de serviço">
+    <img src="print-inicio.jpg" width="49%" alt="Tela inicial da oficina">
+    <img src="print-consulta.jpg" width="49%" alt="Consulta de tempo e valor por carro">
+    <img src="print-ordem-de-servico.jpg" width="49%" alt="Ordens de serviço">
+    <img src="print-valor-da-hora.jpg" width="49%" alt="Cálculo do valor da hora">
   </p>
 
 - [AutoCheck Manager](https://github.com/NycolleF/auto-check-system): gestão de oficina (clientes, veículos e OS) · [testar online](https://nycollef.github.io/auto-check-system/)
